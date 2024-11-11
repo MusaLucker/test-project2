@@ -324,7 +324,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+<<<<<<< HEAD
 				MARKETING_VERSION = 2.1;
+=======
+				MARKETING_VERSION = 2.0;
+>>>>>>> 758e8017db29242b58fc832792c78eca20afb424
 				PRODUCT_BUNDLE_IDENTIFIER = "teamProject.test-project2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -356,7 +360,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+<<<<<<< HEAD
 				MARKETING_VERSION = 2.1;
+=======
+				MARKETING_VERSION = 2.0;
+>>>>>>> 758e8017db29242b58fc832792c78eca20afb424
 				PRODUCT_BUNDLE_IDENTIFIER = "teamProject.test-project2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
