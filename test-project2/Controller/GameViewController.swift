@@ -8,7 +8,7 @@
 import UIKit
 
 class GameViewController: UIViewController {
-    //MARK: -LifeCycles FUNCS
+    //MARK: - Life cycle funs
     override func viewDidLoad() {
         super.viewDidLoad()
 
